@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=greybax)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/greybax)
+[![Twitter Follow](https://img.shields.io/twitter/follow/greybax)](https://twitter.com/greybax)
 
 <!--
 **greybax/greybax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
