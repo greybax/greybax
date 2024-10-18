@@ -1,4 +1,5 @@
 ### Hi there 👋 
+<img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="300">
 
 ![](https://komarev.com/ghpvc/?username=greybax)
 
@@ -18,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="300">
